@@ -1,0 +1,3 @@
+lmax int 2600
+pol__type__ str str_array
+fsky float 0.03162732711
